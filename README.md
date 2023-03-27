@@ -1,16 +1,42 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1 align="center">Hello 🤗, I'm Lourdes Pampa </h1>
+    <h3 align="center">Detail-Oriented and motivate Front-end Web Developer from Perú. An effective 
+        team player and leader who possesses exceptional communication and organizational skills and
+         the all important ability to operate in fast-paced environments.</h3>
+</div>
 
-<!--
-**lourdespampa/lourdespampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌐 My Website
+- 🌱 I’m currently learning React
+- 💬 Ask me about HTML, CSS, JAVASCRIPT
+- 📫 How to reach me: **lourdespampa0@gmail.com**
+- ⚡ Fun fact: I'm a Sushi Lover 🍣
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt=""
+    width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt=""
+    width="40px" height="40px">
+</div>
