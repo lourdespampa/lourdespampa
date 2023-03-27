@@ -12,6 +12,18 @@
 - 📫 How to reach me: **lourdespampa0@gmail.com**
 - ⚡ Fun fact: I'm a Sushi Lover 🍣
 
+## Connect with me
+<div align="center">
+    <a href="https://www.linkedin.com/in/lourdes-pampa/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt=""
+        width="40px" height="40px">
+    </a>
+    <a href="https://www.figma.com/file/vEsfQSfLa4UuqUcCp4JfIE/Portafolio?node-id=0%3A1&t=PrDLZPTyTASGFYSr-1" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+        width="40px" height="40px">
+    </a>
+</div>   
+
 ## Languages and Tools
 
 <div align="center">
@@ -40,3 +52,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt=""
     width="40px" height="40px">
 </div>
+
+## My Stats
