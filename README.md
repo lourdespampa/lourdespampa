@@ -53,4 +53,3 @@
     width="40px" height="40px">
 </div>
 
-## My Stats
